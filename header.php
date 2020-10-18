@@ -31,9 +31,12 @@
     <div class="col-4 im1">
        <img src="images/logo.png" class="rounded mx-auto d-block img-fluid">  
     </div>
-    
     <div class="col-4 im">
       <div class="mail">
+      	<div>
+      		<h1>fdgdfgh</h1>
+      	</div>
+
         <span class="ml mail"> <span class="otstup"> <img src="images/contacts/mail.png"></span><a href="mailto:info@radzab.ru">info@radzab.ru</a> </span>
         <a href="about.php"><button type="button" class="btn btn-success pz "> О нас</button></a>
       </div>
